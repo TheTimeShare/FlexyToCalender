@@ -29,8 +29,8 @@ try:
     print()
     
     login_credentials = {
-        "mail": "emiljohansen27@gmail.com",
-        "password": "4012"
+        "mail": "example@example.com",
+        "password": "password"
     }
     
     email_field = driver.find_element(By.CSS_SELECTOR, "input[name='UserName']")
