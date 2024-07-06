@@ -1,5 +1,6 @@
 # Flexy Arbejdsvagter Til Kalender
 
-Simpelt script til at hente vagter fra v2.flexybox.com og indsætte dem i kalender.
+Script henter vagtplan fra flexy. Derefter uploades denne ics fil til github (https://github.com/TheTimeShare/flexykalenderics/)
+Kan derefter abonnere fra mail app og sættes til at opdatere hvert 5 minut.
 
-Ændre mail og kodeord (4 cifret kode) i koden
+Navn, mail og kodeord skal tilføjes manuelt
